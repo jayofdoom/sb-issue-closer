@@ -20,6 +20,6 @@ Troubleshooting
   * You can open an issue but I have no special knowledge.
   * Check some docs and fix it yourself! https://docs.openstack.org/infra/storyboard/webapi/v1.html
 
-  License
-  -------
-  This repo is released under MIT license. 
+License
+------- 
+This repo is released under MIT license. 
